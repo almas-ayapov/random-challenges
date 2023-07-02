@@ -4,7 +4,6 @@ function removeDuplicateChars(str, numberOfAllowedDuplicates) {
   for (char of str) {
     if (!charCounter[char]) {
       charCounter[char] = 1;
-      continue;
     } else {
       if (charCounter[char] <= numberOfAllowedDuplicates) {
         result = result + char;
