@@ -3,7 +3,6 @@
 //require("./remove-array-duplicates");
 //require("./remove-duplicate-chars");
 //require("./array-intersection");
-//require("./promise-mess");
 //require("./pascal-triangle");
 //require("./binary-tree-sum");
-require("./is-palindrome");
+// require("./is-palindrome");
