@@ -6,3 +6,5 @@
 //require("./pascal-triangle");
 //require("./binary-tree-sum");
 // require("./is-palindrome");
+// require("./graph-path");
+require("./merge-sort");
